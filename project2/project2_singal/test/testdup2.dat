@@ -1,0 +1,11 @@
+總計 27
+drwxrwxrwx 1 seasa seasa 4096 10月 21 19:13 .
+drwxrwxrwx 1 seasa seasa 4096 10月 21 18:39 ..
+-rwxrwxrwx 1 seasa seasa  262 10月 20 12:49 2
+-rwxrwxrwx 1 seasa seasa  262 10月 20 12:52 3
+-rwxrwxrwx 1 seasa seasa 8912 10月 21 19:13 a.out
+-rwxrwxrwx 1 seasa seasa  730 10月 21 19:13 dup_test.cpp
+-rwxrwxrwx 1 seasa seasa  262 10月 20 12:50 env_test.cpp
+-rwxrwxrwx 1 seasa seasa  443 10月 20 12:50 execvp_test.cpp
+-rwxrwxrwx 1 seasa seasa  357 10月 20 23:11 exe_test.cpp
+-rwxrwxrwx 1 seasa seasa    0 10月 21 19:13 testdup2.dat
