@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Network Programming Homework 3</title>
+</head>
+<body bgcolor=#336699>
+<font face="Courier New" size=2 color=#FFFF99>
+<table width="800" border="1">
+<tr>
+<tr>
+<td>nplinux3.cs.nctu.edu.tw</td>
+<tr>
+<td valign="top" id="m0"></td>
+</table>
+</font>
+</body>
+</html>
+<script>document.all['m0'].innerHTML += "****************************************** Welcome to the information server. ******************************************<br>"</script>
+% <script>document.all['m0'].innerHTML += "printenv PATH
+<br>";</script>
+PATH=bin:.
+<script>document.all['m0'].innerHTML += "PATH=bin:.
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "ls -S
+<br>";</script>
+bin
+test.html
+<script>document.all['m0'].innerHTML += "bin
+test.html
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "setenv PATH .
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "printenv PATH
+<br>";</script>
+PATH=.
+<script>document.all['m0'].innerHTML += "PATH=.
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "ls
+<br>";</script>
+Unknown command: [ls].
+<script>document.all['m0'].innerHTML += "Unknown command: [ls].
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "setenv PATH bin
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "setenv LANG en_US
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "printenv LANG
+<br>";</script>
+LANG=en_US
+<script>document.all['m0'].innerHTML += "LANG=en_US
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "date
+<br>";</script>
+Unknown command: [date].
+<script>document.all['m0'].innerHTML += "Unknown command: [date].
+<br>";</script>
+% <script>document.all['m0'].innerHTML += "exit
+<br>";</script>

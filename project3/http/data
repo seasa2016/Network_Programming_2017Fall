@@ -1,0 +1,52 @@
+the message is:
+GET /form_get.htm HTTP/1.1
+Host: 140.113.65.124:1234
+
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+----------------------------------------------------------------------------------------------------------------------------------------
+the message is:\
+GET /hw3.cgi?h1=nplinux3.cs.nctu.edu.tw&p1=11400&f1=test6.txt&h2=&p2=&f2=&h3=&p3=&f3=&h4=&p4=&f4=&h5=&p5=&f5= HTTP/1.1
+Host: 140.113.65.124:1234
+--User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://140.113.65.124:1234/index.html
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+----------------------------------------------------------------------------------------------------------------------------------------
+REQUEST_METHOD = GET
+REQUEST_URI = /~c0310781/printenv.cgi?ssdsada=12313
+SCRIPT_NAME = /~c0310781/printenv.cgi
+QUERY_STRING = ssdsada=12313
+SERVER_PROTOCOL = HTTP/1.1
+REMOTE_ADDR = 140.113.65.124
+REMOTE_PORT = 53730
+SERVER_ADDR = 140.113.168.191
+SERVER_PORT = 80
+HTTP_USER_AGENT = Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+HTTP_ACCEPT = text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_LANGUAGE = zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+HTTP_ACCEPT_ENCODING = gzip, deflate
+
+HTTP_UPGRADE_INSECURE_REQUESTS = 1
+HTTP_HOST = nplinux1.cs.nctu.edu.tw
+SERVER_NAME = nplinux1.cs.nctu.edu.tw
+HTTP_CONNECTION = keep-alive
+REDIRECT_STATUS = 200
+REQUEST_SCHEME = http
+GATEWAY_INTERFACE = CGI/1.1
+
+CONTENT_LENGTH = 0
+HTTP_COOKIE = _ga=GA1.3.1910177188.1510914790
+DOCUMENT_ROOT = /u/other/2015_7/0310781/public_html
+SERVER_SOFTWARE = lighttpd/1.4.47
+REQUEST_URI = /~c0310781/printenv.cgi?ssdsada=12313
+SCRIPT_FILENAME = /u/other/2015_7/0310781/public_html/printenv.cgi
+
